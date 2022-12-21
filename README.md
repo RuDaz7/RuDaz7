@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KyeongMin Kim
-- 👀 blog https://naver.com/7794rudals
+- 👀 [blog] blog.naver.com/7794rudals
 
 <!---
 RuDaz7/RuDaz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
