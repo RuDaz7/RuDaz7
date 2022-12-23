@@ -1,5 +1,5 @@
 - <h1> 👋 Hi, I’m KyeongMin Kim </h1>
-- 👀 **[개인블로그](https://blog.naver.com/7794rudals)**
+- 👀 **[개인블로그](https://blog.naver.com/rdz77)**
 
 >계명대학교 게임모바일공학과 졸업 / Keimyung University, Game & Mobile Engineering  
 >부전공 실감소프트웨어공학 / Realistic software engineering
