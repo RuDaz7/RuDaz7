@@ -1,6 +1,6 @@
 - <h1> 👋 Hi, I’m KyeongMin Kim </h1>
 ---
-**계명대학교 게임모바일공학과 졸업 / Keimyung University, Game & Mobile Engineering**  
+**계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering**  
 >부전공 실감소프트웨어공학 / Realistic software engineering
 <h3 align="center"><b>🖐 My Blog</b></h3>
 </br>
