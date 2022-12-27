@@ -12,9 +12,10 @@
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/c%23-blue.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
-<h3 align="center"><b>📱 App 📱</b></h3>
+<h3 align="center"><b>📱 Platform 💻</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Google Play-yellow.svg?style=for-the-badge&logo=Google Play&logoColor=black"/>
+<img src="https://img.shields.io/badge/Steam-white.svg?style=for-the-badge&logo=Steam&logoColor=black"/>
 </p>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RuDaz7&show_icons=true">
