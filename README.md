@@ -6,7 +6,7 @@
 <p align="center"> 🖐 My Blog 👉Click❗
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 </p>
-<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
+<h3 align="center"><b>🎮 kill 🎮</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
