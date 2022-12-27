@@ -3,9 +3,7 @@
 **<h3>계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학 / Realistic software engineering
 
-<h3 align="center"><b>🖐 My Blog</b></h3>
-</br>
-<p align="center"> 👉
+<p align="center"> 🖐 My Blog 👉
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 </p>
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
