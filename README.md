@@ -1,7 +1,8 @@
 - <h1> 👋 Thank you for Visiting</h1>
 ---
-**계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering**  
+**<h3>계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학 / Realistic software engineering
+
 <h3 align="center"><b>🖐 My Blog</b></h3>
 </br>
 <p align="center"> 👉
