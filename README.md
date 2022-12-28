@@ -21,6 +21,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RuDaz7&show_icons=true">
 </div>
 
+---
+
+<h3 align="center"><b>📄My States📃</b></h3>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDaz7&show_icons=true">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudaz77">
