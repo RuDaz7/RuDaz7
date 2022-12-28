@@ -7,6 +7,7 @@
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 </p>
 
+---
 <h3 align="center"><b>🎮Skill🎮 & 📱Platform💻</b></h3>
 
 <p align="center">
