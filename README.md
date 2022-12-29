@@ -40,6 +40,8 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudaz77">
 </div>
 
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=auto"/>
 </div>
