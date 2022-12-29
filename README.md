@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/c%23-blue.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Play-yellow.svg?style=for-the-badge&logo=Google Play&logoColor=black"/>
-<img src="https://img.shields.io/badge/Steam-white.svg?style=for-the-badge&logo=Steam&logoColor=black"/>
+<img src="https://img.shields.io/badge/Steam-blue.svg?style=for-the-badge&logo=Steam&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oculus-white.svg?style=for-the-badge&logo=Oculus&logoColor=black"/>
 </p>
 
