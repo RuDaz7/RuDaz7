@@ -23,7 +23,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/Oculus-blue.svg?style=for-the-badge&logo=Oculus&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oculus-white.svg?style=for-the-badge&logo=Oculus&logoColor=1C1E20"/>
 <img src="https://img.shields.io/badge/Unreal Engine-white.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Window Form-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=35BDB2"/><br/>
