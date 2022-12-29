@@ -11,7 +11,7 @@
 - 게임 개발자
 
 <div align="center">
-<a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=for-the-badge&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=2e0768&logo=Github"/></a>
+<a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=2e0768&logo=Github"/></a>
 </div><br/>
 
 <p align="center"> 🖐 My Blog 👉Click❗
