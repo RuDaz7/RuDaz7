@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/Oculus-white.svg?style=for-the-badge&logo=Oculus&logoColor=1C1E20"/>
 <img src="https://img.shields.io/badge/Unreal Engine-white.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Window Form-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=35BDB2"/><br/>
+<img src="https://img.shields.io/badge/Window Form-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=5C2D91"/><br/>
 <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=0E1128"/>
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=FF4154"/>
+<img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 </p>
 
 <h3 align="center"><b>📱Platform💻</b></h3>
