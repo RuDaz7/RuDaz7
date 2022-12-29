@@ -8,7 +8,7 @@
 **<h3>계명대학교 Keimyung University / 컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학
 >Realistic software engineering  
-- **게임 개발자**
+- 게임 개발자
 
 <div align="center">
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=for-the-badge&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=dd9b11&labelColor=600e9b&logo=Github"/></a>
