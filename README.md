@@ -1,9 +1,13 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=00599C&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=03C75A&animation=fadeIn"/>
-<h1> 👋 Thank you for Visiting</h1>
+</div>
+
+<h1> 👋 hello, i'm KyeongMin Kim</h1>
 
 ---
 **<h3>계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학 / Realistic software engineering
+- 게임 개발자
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuDaz7%2FRuDaz7hit-counter&count_bg=%23C89711&title_bg=%232C1A90&icon=&icon_color=%23F10505&title=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&edge_flat=true"/></a>
@@ -34,4 +38,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDaz7&show_icons=true">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudaz77">
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=auto"/>
 </div>
