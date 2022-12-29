@@ -10,8 +10,8 @@
 - 게임 개발자
 
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRuDaz7%2FRuDaz7hit-counter&count_bg=%23C89711&title_bg=%232C1A90&icon=&icon_color=%23F10505&title=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&edge_flat=true"/></a>
-</div>
+<a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=dd9b11&labelColor=600e9b&logo=Github"/></a>
+</div>  
 
 <p align="center"> 🖐 My Blog 👉Click❗
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
