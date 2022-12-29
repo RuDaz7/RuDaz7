@@ -1,4 +1,6 @@
-- <h1> 👋 Thank you for Visiting</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00599C&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=03C75A&animation=fadeIn"/>
+<h1> 👋 Thank you for Visiting</h1>
+
 ---
 **<h3>계명대학교 게임모바일공학과 / Keimyung University, Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학 / Realistic software engineering
