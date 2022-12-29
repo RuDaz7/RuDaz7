@@ -12,7 +12,7 @@
 
 <div align="center">
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
-</div><br/>
+</div>
 
 <p align="center"> 🖐 My Blog 👉Click❗
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
