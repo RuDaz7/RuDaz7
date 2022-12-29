@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=100&section=header&text=Thank%20you%20for%20Visiting%20everytime&fontSize=50&fontColor=auto"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=033963&height=100&section=header&text=Thank%20you%20for%20Visiting%20everytime.&fontSize=50&fontColor=auto"/>
 </div>
