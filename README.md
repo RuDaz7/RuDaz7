@@ -5,7 +5,7 @@
 <h1> 👋 hello, i'm KyeongMin Kim</h1>
 
 ---
-**<h3>계명대학교 Keimyung University / 게임모바일공학과 Game & Mobile Engineering</h2>**
+**<h3>계명대학교 Keimyung University / 컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering</h2>**
 >부전공 실감소프트웨어공학
 >Realistic software engineering  
 - 게임 개발자
