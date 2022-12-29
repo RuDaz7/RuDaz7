@@ -19,12 +19,22 @@
 </p>
 
 ---
-<h3 align="center"><b>🎮Tools🎮 & 📱Platform💻</b></h3>
+<h3 align="center"><b>🎮Tools🎮</b></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oculus-blue.svg?style=for-the-badge&logo=Oculus&logoColor=black"/>
-<img src="https://img.shields.io/badge/Unreal Engine-red.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
+<img src="https://img.shields.io/badge/Unreal Engine-red.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/>
+<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=0E1128"/><br/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Window Form-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=35BDB2"/>
+<img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=FF4154"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=FF4154"/>
+</p>
+
+<h3 align="center"><b>📱Platform💻</b></h3>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Google Play-yellow.svg?style=for-the-badge&logo=Google Play&logoColor=black"/>
 <img src="https://img.shields.io/badge/Steam-white.svg?style=for-the-badge&logo=Steam&logoColor=black"/>
 <img src="https://img.shields.io/badge/Appstore-0D96F6.svg?style=for-the-badge&logo=Appstore&logoColor=white"/>
