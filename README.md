@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=00599C&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=03C75A&animation=fadeIn"/>
 </div>
 
-<h2> 👋 hello, i'm KyeongMin Kim</h2>
+<h3> 👋 hello, i'm KyeongMin Kim</h3>
 
 ---
 **<h3>계명대학교 Keimyung University / 컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering</h2>**
