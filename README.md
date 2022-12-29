@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oculus-blue.svg?style=for-the-badge&logo=Oculus&logoColor=black"/>
-<img src="https://img.shields.io/badge/Unreal Engine-red.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/>
+<img src="https://img.shields.io/badge/Unreal Engine-red.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
 <img src="https://img.shields.io/badge/Google Play-yellow.svg?style=for-the-badge&logo=Google Play&logoColor=black"/>
 <img src="https://img.shields.io/badge/Steam-white.svg?style=for-the-badge&logo=Steam&logoColor=black"/>
 <img src="https://img.shields.io/badge/Appstore-0D96F6.svg?style=for-the-badge&logo=Appstore&logoColor=white"/>
