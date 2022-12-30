@@ -5,7 +5,7 @@
 <h2> 👋 hello, i'm KyeongMin Kim</h2>
 
 ---
-**<h3>계명대학교 Keimyung University / 컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering</h2>**
+계명대학교 Keimyung University / 컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering
 >부전공 실감소프트웨어공학
 >Realistic software engineering  
 - 게임 개발자
@@ -14,7 +14,7 @@
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
 </div>
 
-<p align="center"> <img src="https://img.shields.io/badge/🖐 My Blog Click👉-E8E8E8.svg?style=for-the-badge&logo=Naver&logoColor=03C75A"/>
+<p align="center"> <img src="https://img.shields.io/badge/🖐 My Blog Click👉-E8E8E8.svg?style=for-the-badge&logo=&logoColor=03C75A"/>
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 </p>
 
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Oculus-white.svg?style=for-the-badge&logo=Oculus&logoColor=1C1E20"/>
 <img src="https://img.shields.io/badge/Unreal-white.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
 <img src="https://img.shields.io/badge/VSCODE, WinForm-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=0E1128"/>
+<img src="https://img.shields.io/badge/OracleDB-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=0E1128"/>
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 </p>
 
