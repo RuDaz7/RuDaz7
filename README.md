@@ -24,9 +24,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/unity-white.svg?style=for-the-badge&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Oculus-white.svg?style=for-the-badge&logo=Oculus&logoColor=1C1E20"/>
-<img src="https://img.shields.io/badge/Unreal-white.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/>
-<img src="https://img.shields.io/badge/VSCODE-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/WinForm-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=5C2D91"/>
+<img src="https://img.shields.io/badge/Unreal-white.svg?style=for-the-badge&logo=Unreal Engine&logoColor=0E1128"/><br/>
+<img src="https://img.shields.io/badge/VSCODE, WinForm-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=0E1128"/>
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=React&logoColor=61DAFB"/>
 </p>
