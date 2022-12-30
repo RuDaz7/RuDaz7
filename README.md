@@ -48,7 +48,13 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDaz7&show_icons=true">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudaz77">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudaz77"><br/>
+<img src="https://img.shields.io/badge/C++,C-00599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-F1BF7A.svg?style=for-the-badge&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=Java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/HTML5, PHP-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </div>
 
 ---
