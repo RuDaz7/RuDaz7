@@ -7,7 +7,7 @@
 ---
 
 계명대학교 Keimyung University<br/>
->컴퓨터공학부 Computer Engineering
+>컴퓨터공학부
 >>게임모바일공학과 Game & Mobile Engineering<br/>
 >>부전공 실감소프트웨어공학 Realistic software engineering<br/>
 - 게임 개발자
