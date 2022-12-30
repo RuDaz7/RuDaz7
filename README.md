@@ -14,11 +14,12 @@
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
 </div>
 
-<p align="center"> 🖐 My Blog 👉Click❗
+<p align="center"> <img src="https://img.shields.io/badge/🖐 My Blog Click👉-E8E8E8.svg?style=for-the-badge&logo=Naver&logoColor=03C75A"/>
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 </p>
 
 ---
+
 <h3 align="center"><b>🎮Tools🎮</b></h3>
 
 <p align="center">
