@@ -2,15 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=00599C&height=130&section=header&text=Thank%20you%20for%20Visiting&fontSize=80&fontColor=03C75A&animation=fadeIn"/>
 </div>
 
-<h2> 👋 hello, i'm KyeongMin Kim / 게임 개발자</h2>
+<h2> 👋 hello, i'm KyeongMin Kim </h2>
 
 ---
 
-<div align="center">
 계명대학교 Keimyung University<br/>
-컴퓨터공학부_게임모바일공학과 Game & Mobile Engineering<br/>
-부전공 실감소프트웨어공학 Realistic software engineering<br/>
-</div><br/>
+>컴퓨터공학부
+>>게임모바일공학과 Game & Mobile Engineering<br/>
+>>부전공 실감소프트웨어공학 Realistic software engineering<br/>
+- 게임 개발자
 
 <div align="center">
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
