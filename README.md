@@ -10,8 +10,7 @@
 >컴퓨터공학부
 >>게임모바일공학과 Game & Mobile Engineering<br/>
 >>부전공 실감소프트웨어공학 Realistic software engineering<br/>
-- 게임 개발
-- 앱 개발
+- 게임 개발자
 
 <div align="center">
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
