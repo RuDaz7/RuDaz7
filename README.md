@@ -6,7 +6,7 @@
 
 ---
 
-계명대학교 Keimyung University<br/>
+계명대학교 공과대학 Keimyung University_College of Engineering<br/>
 >컴퓨터공학부
 >>전공_게임모바일공학과 Game & Mobile Engineering<br/>
 >>부전공_실감소프트웨어공학과 Realistic software engineering<br/>
