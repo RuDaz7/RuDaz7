@@ -16,10 +16,10 @@
 <a href="https://hits.sh/github.com/RuDaz7/"><img alt="Hits" src="https://hits.sh/github.com/RuDaz7.svg?view=today-total&style=flaf-square&label=%EC%98%A4%EB%8A%98%2F%EC%B4%9D&color=0cb83b&labelColor=4709a0&logo=Github"/></a>
 </div>
 
-<p align="center"> <img src="https://img.shields.io/badge/🖐 My Blog Click👉-E8E8E8.svg?style=for-the-badge&logo=&logoColor=03C75A"/>
+<p align="center"> <img src="https://img.shields.io/badge/🖐 My Blog Click!👉-E8E8E8.svg?style=for-the-badge&logo=&logoColor=03C75A"/>
 <a href="https://blog.naver.com/rdz77"><img src="https://img.shields.io/badge/MyBlog-FFE033?style=for-the-badge&logo=Naver&logoColor=03C75A&link=https://blog.naver.com/rdz77"/></a>
 
-<img src="https://img.shields.io/badge/🖐 My Notion Click👉-E8E8E8.svg?style=for-the-badge&logo=&logoColor=03C75A"/>
+<img src="https://img.shields.io/badge/🖐 My Notion Click!👉-E8E8E8.svg?style=for-the-badge&logo=&logoColor=03C75A"/>
 <a href="https://sn7794.notion.site/i-m-KyeongMin-Kim-d28f01712757415899d15daead0199fe"><img src="https://img.shields.io/badge/MyNotion-white?style=for-the-badge&logo=Notion&logoColor=000000&link=https://www.notion.so/sn7794"/></a>
 </p>
 
